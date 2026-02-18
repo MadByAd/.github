@@ -1,3 +1,6 @@
+
+![Github Banner.png](Github%20Banner.png)
+
 # MadByAd
 
 Hello this is MadByAd 👋 i am an Indonesian developer who has passion for code and arts but mostly make games!
