@@ -34,7 +34,7 @@ And here is a list of tools & libraries that i have created and decided to share
 
 | Name | Tag | Repository |
 | ---- | --- | ---------- |
-| 📡 Godot HTTP Module | *Godot Tool* | [Click here](https://github.com/madbyad/Godot-HTTP-Module) |
+| 📡 Godot HTTP Module | *Godot Library* | [Click here](https://github.com/madbyad/Godot-HTTP-Module) |
 | 🌐 MadMad HTTP Catcher | *Programming Tool* | [Click here](https://github.com/madbyad/MADMAD-HTTP-Catcher) |
 | 📃 GX DocPyGen | *Python Tool* | [Click here](https://github.com/madbyad/MADMAD-HTTP-Catcher) |
 | 🔧 Kubikka Mesh Tool | *Game Development Tool* | [Click Here](https://github.com/MadByAd/Kubikka-Mesh-Tool) |
