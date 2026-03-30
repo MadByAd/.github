@@ -17,6 +17,7 @@ ___
 
 | Name | Tag | Link |
 | --- | --- | --- |
+| 💼 Scary Corporate Life | *Horror, Simulator, Arcade* | [Click here](https://madbyad.itch.io/scary-corporate-life-simulator) |
 | 🎃 Pumpkin Nights | *Multiplayer, Horror, Arcade* | [Click here](https://madbyad.itch.io/pumpkin-nights) |
 | 🏫 Bara Basics | *Multiplayer, Horror, Comedy* | [Click here](https://madbyad.itch.io/bara-basic) |
 | 🌌 Map Of The Solar System | *Educational, Application, Space* | [Click here](https://madbyad.itch.io/map-of-the-solar-system) |
@@ -34,7 +35,8 @@ And here is a list of tools & libraries that i have created and decided to share
 
 | Name | Tag | Repository |
 | ---- | --- | ---------- |
-| 📡 Godot HTTP Module | *Godot Library* | [Click here](https://github.com/madbyad/Godot-HTTP-Module) |
+| 💾 Godot Saves Utility | *Godot Utility* | [Click here](https://github.com/madbyad/Godot-Saves-Utility) |
+| 📡 Godot HTTP Module | *Godot Addon* | [Click here](https://github.com/madbyad/Godot-HTTP-Module) |
 | 🌐 MadMad HTTP Catcher | *Programming Tool* | [Click here](https://github.com/madbyad/MADMAD-HTTP-Catcher) |
 | 📃 GX DocPyGen | *Python Tool* | [Click here](https://github.com/madbyad/MADMAD-HTTP-Catcher) |
 | 🔧 Kubikka Mesh Tool | *Game Development Tool* | [Click Here](https://github.com/MadByAd/Kubikka-Mesh-Tool) |
