@@ -15,7 +15,7 @@ ___
 
 ## Projects, Tools, Libraries
 
-Here is a list of projects i've done so far, i have made games, tools, and libraries. I hope you find my games interesting and fun to play! and i wish to definitely create more games in the future. Most of the tools i created are from when i needed it during game development or had a problem elsewhere and decided to share it, most of these tools are related to programming.
+Here is a list of projects i've done so far, i have made games, website designs, tools, and libraries. I hope you find my games interesting and fun to play! and i wish to definitely create more games in the future. Most of the tools i created are from when i needed it during game development or had a problem elsewhere and decided to share it, most of these tools are related to programming.
 
 | Name | Tag | Link |
 | --- | --- | --- |
@@ -26,6 +26,10 @@ Here is a list of projects i've done so far, i have made games, tools, and libra
 | 🌐 Shindura Story | *Study Project, Multiplayer, Prototype* | [Click here](https://madbyad.itch.io/shindura-story) |
 | 🛰️ Idle Space Station | *Study Project, Idle Game, Space* | [Click here](https://madbyad.itch.io/idle-space-station) |
 | 🧱 The Running Wall | *Study Project, Arcade, Endless Runner* | [Click here](https://madbyad.itch.io/the-running-wall) |
+| 📜 Aksara Konfederasi | *Design Concept*, *World Building*, *Conlang* | [Click Here](https://madbyad.my.id/Aksara-Konfederasi) | [Click Here](https://github.com/madbyad/Aksara-Konfederasi) |
+| 🪐 IPAS Tata Surya | *Study Project (Web App)* | [Click Here](https://adit.madbyad.my.id/IPAS-TataSurya) | [Click Here](https://github.com/adityaws/IPAS-TataSurya) |
+| 🧥 Gedhe Endhase | *Design Concept (Website)* | [Click Here](https://adit.madbyad.my.id/GedheEndhase) | [Click Here](https://github.com/adityaws/GedheEndhase) |
+| 🏙️ Urbanex | *Design Concept (Website)* | [Click Here](https://adit.madbyad.my.id/Urbanex) | [Click Here](https://github.com/adityaws/Urbanex) |
 | 💾 Godot Saves Utility | *Godot Utility* | [Click here](https://github.com/madbyad/Godot-Saves-Utility) |
 | 📡 Godot HTTP Module | *Godot Addon* | [Click here](https://github.com/madbyad/Godot-HTTP-Module) |
 | 🌐 MadMad HTTP Catcher | *Programming Tool* | [Click here](https://github.com/madbyad/MADMAD-HTTP-Catcher) |
