@@ -13,7 +13,9 @@ Hello this is MadByAd 👋 i am an Indonesian developer who has passion for code
 
 ___
 
-## Projects
+## Projects, Tools, Libraries
+
+Here is a list of projects i've done so far, i have made games, tools, and libraries. I hope you find my games interesting and fun to play! and i wish to definitely create more games in the future. Most of the tools i created are from when i needed it during game development or had a problem elsewhere and decided to share it, most of these tools are related to programming.
 
 | Name | Tag | Link |
 | --- | --- | --- |
@@ -24,17 +26,6 @@ ___
 | 🌐 Shindura Story | *Study Project, Multiplayer, Prototype* | [Click here](https://madbyad.itch.io/shindura-story) |
 | 🛰️ Idle Space Station | *Study Project, Idle Game, Space* | [Click here](https://madbyad.itch.io/idle-space-station) |
 | 🧱 The Running Wall | *Study Project, Arcade, Endless Runner* | [Click here](https://madbyad.itch.io/the-running-wall) |
-
-I hope you find my games interesting and fun to play! and i wish to definitely create more games in the future
-
----
-
-## Tools & Libraries
-
-And here is a list of tools & libraries that i have created and decided to share, most of these tools are related to programming
-
-| Name | Tag | Repository |
-| ---- | --- | ---------- |
 | 💾 Godot Saves Utility | *Godot Utility* | [Click here](https://github.com/madbyad/Godot-Saves-Utility) |
 | 📡 Godot HTTP Module | *Godot Addon* | [Click here](https://github.com/madbyad/Godot-HTTP-Module) |
 | 🌐 MadMad HTTP Catcher | *Programming Tool* | [Click here](https://github.com/madbyad/MADMAD-HTTP-Catcher) |
